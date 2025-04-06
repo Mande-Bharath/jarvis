@@ -1,1 +1,1 @@
-it`s an intresting realtime ai model
+it`s an intresting realtime ai model.
